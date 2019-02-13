@@ -22,7 +22,7 @@ public class Rope : MonoBehaviour
     [SerializeField]
     private Rigidbody2D rigidBody2;
     #endregion
-
+    //butt
     [SerializeField]
     private float thickness;
     [SerializeField]
